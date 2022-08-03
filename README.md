@@ -8,10 +8,6 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **mhzarbin@gmail.com**
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbinmhj&show_icons=true&locale=en&layout=compact" alt="arbinmhj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arbinmhj&show_icons=true&locale=en" alt="arbinmhj" /></p>
